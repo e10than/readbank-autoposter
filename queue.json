@@ -1,0 +1,807 @@
+[
+  {
+    "id": "f1-why-i-built-it",
+    "type": "carousel",
+    "images": [
+      "images/f1-why-i-built-it/01.jpg",
+      "images/f1-why-i-built-it/02.jpg",
+      "images/f1-why-i-built-it/03.jpg",
+      "images/f1-why-i-built-it/04.jpg",
+      "images/f1-why-i-built-it/05.jpg",
+      "images/f1-why-i-built-it/06.jpg",
+      "images/f1-why-i-built-it/07.jpg"
+    ],
+    "caption": "I'm a student, not a parent. I built ReadBank because of a real screen time fight at my house, and because I wish I had read more when I was younger. What do you wish you had started earlier? Tell me below.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "B11-reading-logs",
+    "type": "carousel",
+    "images": [
+      "images/B11-reading-logs/01.jpg",
+      "images/B11-reading-logs/02.jpg",
+      "images/B11-reading-logs/03.jpg",
+      "images/B11-reading-logs/04.jpg",
+      "images/B11-reading-logs/05.jpg",
+      "images/B11-reading-logs/06.jpg",
+      "images/B11-reading-logs/07.jpg"
+    ],
+    "caption": "Every parent reading this has fudged a reading log. Every single one. Say it with me in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#readinglog #teachersofinstagram #parentingreal #raisingreaders"
+  },
+  {
+    "id": "q-2026-10-08",
+    "type": "single",
+    "images": [
+      "images/q-2026-10-08/01.jpg"
+    ],
+    "caption": "What is the one screen time rule you have given up on? Be honest.\n\nDownload ReadBank, link in bio 📚\n\n#parenting #screentime #raisingreaders #parentingtips #momlife"
+  },
+  {
+    "id": "p1-reading-first",
+    "type": "carousel",
+    "images": [
+      "images/p1-reading-first/01.jpg",
+      "images/p1-reading-first/02.jpg",
+      "images/p1-reading-first/03.jpg",
+      "images/p1-reading-first/04.jpg",
+      "images/p1-reading-first/05.jpg",
+      "images/p1-reading-first/06.jpg",
+      "images/p1-reading-first/07.jpg"
+    ],
+    "caption": "Pick one and tell me why. Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "s1-digital-sat-reading",
+    "type": "carousel",
+    "images": [
+      "images/s1-digital-sat-reading/01.jpg",
+      "images/s1-digital-sat-reading/02.jpg",
+      "images/s1-digital-sat-reading/03.jpg",
+      "images/s1-digital-sat-reading/04.jpg",
+      "images/s1-digital-sat-reading/05.jpg",
+      "images/s1-digital-sat-reading/06.jpg",
+      "images/s1-digital-sat-reading/07.jpg"
+    ],
+    "caption": "I'm a student and this is the part I wish I had prepared for earlier. Taking the SAT soon? Tell me below.\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "r1-naep-grade4",
+    "type": "carousel",
+    "images": [
+      "images/r1-naep-grade4/01.jpg",
+      "images/r1-naep-grade4/02.jpg",
+      "images/r1-naep-grade4/03.jpg",
+      "images/r1-naep-grade4/04.jpg",
+      "images/r1-naep-grade4/05.jpg",
+      "images/r1-naep-grade4/06.jpg",
+      "images/r1-naep-grade4/07.jpg"
+    ],
+    "caption": "The numbers are hard to ignore. Save this and send it to someone who cares about reading.\n\nDownload ReadBank, link in bio 📚\n\n#literacy #readingmatters #parentingstats #education #raisingreaders"
+  },
+  {
+    "id": "b1-funny-books",
+    "type": "carousel",
+    "images": [
+      "images/b1-funny-books/01.jpg",
+      "images/b1-funny-books/02.jpg",
+      "images/b1-funny-books/03.jpg",
+      "images/b1-funny-books/04.jpg",
+      "images/b1-funny-books/05.jpg",
+      "images/b1-funny-books/06.jpg",
+      "images/b1-funny-books/07.jpg"
+    ],
+    "caption": "Funny books are a great way in. What was your favorite book as a kid? Drop it below.\n\nDownload ReadBank, link in bio 📚\n\n#kidsbooks #bookrecs #raisingreaders #reading #middlegrade"
+  },
+  {
+    "id": "C20-reading-for-fun-is-falling",
+    "type": "carousel",
+    "images": [
+      "images/C20-reading-for-fun-is-falling/01.jpg",
+      "images/C20-reading-for-fun-is-falling/02.jpg",
+      "images/C20-reading-for-fun-is-falling/03.jpg",
+      "images/C20-reading-for-fun-is-falling/04.jpg",
+      "images/C20-reading-for-fun-is-falling/05.jpg",
+      "images/C20-reading-for-fun-is-falling/06.jpg",
+      "images/C20-reading-for-fun-is-falling/07.jpg"
+    ],
+    "caption": "NAEP Long-Term Trend, 2025 release. The 13-year-old figure has now sat at 14% for two assessments running, the lowest since the question was first asked in 1984.\n\nSave this and send it to another parent.\n\nDownload ReadBank, link in bio 📚\n\n#literacy #readingforfun #parentingstats #raisingreaders"
+  },
+  {
+    "id": "p2-audio-or-paper",
+    "type": "carousel",
+    "images": [
+      "images/p2-audio-or-paper/01.jpg",
+      "images/p2-audio-or-paper/02.jpg",
+      "images/p2-audio-or-paper/03.jpg",
+      "images/p2-audio-or-paper/04.jpg",
+      "images/p2-audio-or-paper/05.jpg",
+      "images/p2-audio-or-paper/06.jpg",
+      "images/p2-audio-or-paper/07.jpg"
+    ],
+    "caption": "Which one do you actually use? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "D25-getting-started-week-1",
+    "type": "carousel",
+    "images": [
+      "images/D25-getting-started-week-1/01.jpg",
+      "images/D25-getting-started-week-1/02.jpg",
+      "images/D25-getting-started-week-1/03.jpg",
+      "images/D25-getting-started-week-1/04.jpg",
+      "images/D25-getting-started-week-1/05.jpg",
+      "images/D25-getting-started-week-1/06.jpg",
+      "images/D25-getting-started-week-1/07.jpg"
+    ],
+    "caption": "Day 3 is the whole thing. If you cave on day 3, you've taught them the rate is negotiable.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#parentinghacks #screentime #parentingtips #newroutine"
+  },
+  {
+    "id": "f2-comprehension-checks",
+    "type": "carousel",
+    "images": [
+      "images/f2-comprehension-checks/01.jpg",
+      "images/f2-comprehension-checks/02.jpg",
+      "images/f2-comprehension-checks/03.jpg",
+      "images/f2-comprehension-checks/04.jpg",
+      "images/f2-comprehension-checks/05.jpg",
+      "images/f2-comprehension-checks/06.jpg",
+      "images/f2-comprehension-checks/07.jpg"
+    ],
+    "caption": "This is the part of ReadBank I care about most. Would you trust a reading app that only counts pages? Comment YES or NO.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "A08-what-i-actually-wanted",
+    "type": "carousel",
+    "images": [
+      "images/A08-what-i-actually-wanted/01.jpg",
+      "images/A08-what-i-actually-wanted/02.jpg",
+      "images/A08-what-i-actually-wanted/03.jpg",
+      "images/A08-what-i-actually-wanted/04.jpg",
+      "images/A08-what-i-actually-wanted/05.jpg",
+      "images/A08-what-i-actually-wanted/06.jpg",
+      "images/A08-what-i-actually-wanted/07.jpg"
+    ],
+    "caption": "Not anti-screen. Pro-competition.\n\nDoes this sound like your house? Tell me in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#screentime #raisingreaders #parentingtips #kidsandscreens"
+  },
+  {
+    "id": "s2-five-habits",
+    "type": "carousel",
+    "images": [
+      "images/s2-five-habits/01.jpg",
+      "images/s2-five-habits/02.jpg",
+      "images/s2-five-habits/03.jpg",
+      "images/s2-five-habits/04.jpg",
+      "images/s2-five-habits/05.jpg",
+      "images/s2-five-habits/06.jpg",
+      "images/s2-five-habits/07.jpg"
+    ],
+    "caption": "Save this for study season. Which habit do you already do?\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "q-2026-10-15",
+    "type": "single",
+    "images": [
+      "images/q-2026-10-15/01.jpg"
+    ],
+    "caption": "Did you ever fudge a reading log as a kid? Comment YES.\n\nDownload ReadBank, link in bio 📚\n\n#parenting #screentime #raisingreaders #parentingtips #momlife"
+  },
+  {
+    "id": "B13-screen-time-limits-fail",
+    "type": "carousel",
+    "images": [
+      "images/B13-screen-time-limits-fail/01.jpg",
+      "images/B13-screen-time-limits-fail/02.jpg",
+      "images/B13-screen-time-limits-fail/03.jpg",
+      "images/B13-screen-time-limits-fail/04.jpg",
+      "images/B13-screen-time-limits-fail/05.jpg",
+      "images/B13-screen-time-limits-fail/06.jpg",
+      "images/B13-screen-time-limits-fail/07.jpg"
+    ],
+    "caption": "Any rule that only you have to maintain is a rule you will eventually drop.\n\nAgree or disagree? Comment below.\n\nDownload ReadBank, link in bio 📚\n\n#screentime #parentinghacks #digitalparenting #momlife"
+  },
+  {
+    "id": "p3-series-or-standalone",
+    "type": "carousel",
+    "images": [
+      "images/p3-series-or-standalone/01.jpg",
+      "images/p3-series-or-standalone/02.jpg",
+      "images/p3-series-or-standalone/03.jpg",
+      "images/p3-series-or-standalone/04.jpg",
+      "images/p3-series-or-standalone/05.jpg",
+      "images/p3-series-or-standalone/06.jpg",
+      "images/p3-series-or-standalone/07.jpg"
+    ],
+    "caption": "Series people or standalone people? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "E38-books-for-kids-who-like-scary",
+    "type": "carousel",
+    "images": [
+      "images/E38-books-for-kids-who-like-scary/01.jpg",
+      "images/E38-books-for-kids-who-like-scary/02.jpg",
+      "images/E38-books-for-kids-who-like-scary/03.jpg",
+      "images/E38-books-for-kids-who-like-scary/04.jpg",
+      "images/E38-books-for-kids-who-like-scary/05.jpg",
+      "images/E38-books-for-kids-who-like-scary/06.jpg",
+      "images/E38-books-for-kids-who-like-scary/07.jpg"
+    ],
+    "caption": "Kids who like being scared read fast. Lean into it.\n\nDrop your favorite book in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#scarybooks #kidsbooks #bookrecs #raisingreaders",
+    "not_after": "2026-11-01"
+  },
+  {
+    "id": "r2-naep-grade8",
+    "type": "carousel",
+    "images": [
+      "images/r2-naep-grade8/01.jpg",
+      "images/r2-naep-grade8/02.jpg",
+      "images/r2-naep-grade8/03.jpg",
+      "images/r2-naep-grade8/04.jpg",
+      "images/r2-naep-grade8/05.jpg",
+      "images/r2-naep-grade8/06.jpg",
+      "images/r2-naep-grade8/07.jpg"
+    ],
+    "caption": "Save this and send it to a teacher or parent you know.\n\nDownload ReadBank, link in bio 📚\n\n#literacy #readingmatters #parentingstats #education #raisingreaders"
+  },
+  {
+    "id": "b2-adventure-books",
+    "type": "carousel",
+    "images": [
+      "images/b2-adventure-books/01.jpg",
+      "images/b2-adventure-books/02.jpg",
+      "images/b2-adventure-books/03.jpg",
+      "images/b2-adventure-books/04.jpg",
+      "images/b2-adventure-books/05.jpg",
+      "images/b2-adventure-books/06.jpg",
+      "images/b2-adventure-books/07.jpg"
+    ],
+    "caption": "What was your favorite book as a kid? Drop it below.\n\nDownload ReadBank, link in bio 📚\n\n#kidsbooks #bookrecs #raisingreaders #reading #middlegrade"
+  },
+  {
+    "id": "E34-graphic-novels-aren-t-cheating",
+    "type": "carousel",
+    "images": [
+      "images/E34-graphic-novels-aren-t-cheating/01.jpg",
+      "images/E34-graphic-novels-aren-t-cheating/02.jpg",
+      "images/E34-graphic-novels-aren-t-cheating/03.jpg",
+      "images/E34-graphic-novels-aren-t-cheating/04.jpg",
+      "images/E34-graphic-novels-aren-t-cheating/05.jpg",
+      "images/E34-graphic-novels-aren-t-cheating/06.jpg",
+      "images/E34-graphic-novels-aren-t-cheating/07.jpg"
+    ],
+    "caption": "The panel gutter is doing real cognitive work. Comment if you want the long version.\n\nDownload ReadBank, link in bio 📚\n\n#graphicnovels #kidsbooks #literacy #raisingreaders"
+  },
+  {
+    "id": "f3-screen-time-bank",
+    "type": "carousel",
+    "images": [
+      "images/f3-screen-time-bank/01.jpg",
+      "images/f3-screen-time-bank/02.jpg",
+      "images/f3-screen-time-bank/03.jpg",
+      "images/f3-screen-time-bank/04.jpg",
+      "images/f3-screen-time-bank/05.jpg",
+      "images/f3-screen-time-bank/06.jpg",
+      "images/f3-screen-time-bank/07.jpg"
+    ],
+    "caption": "Would you rather earn your screen time or get a fixed daily limit? Comment EARN or LIMIT.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "s3-words-from-books",
+    "type": "carousel",
+    "images": [
+      "images/s3-words-from-books/01.jpg",
+      "images/s3-words-from-books/02.jpg",
+      "images/s3-words-from-books/03.jpg",
+      "images/s3-words-from-books/04.jpg",
+      "images/s3-words-from-books/05.jpg",
+      "images/s3-words-from-books/06.jpg",
+      "images/s3-words-from-books/07.jpg"
+    ],
+    "caption": "Save this. What is the last new word you learned from a book?\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "D27-what-to-do-when-they-stall",
+    "type": "carousel",
+    "images": [
+      "images/D27-what-to-do-when-they-stall/01.jpg",
+      "images/D27-what-to-do-when-they-stall/02.jpg",
+      "images/D27-what-to-do-when-they-stall/03.jpg",
+      "images/D27-what-to-do-when-they-stall/04.jpg",
+      "images/D27-what-to-do-when-they-stall/05.jpg",
+      "images/D27-what-to-do-when-they-stall/06.jpg",
+      "images/D27-what-to-do-when-they-stall/07.jpg"
+    ],
+    "caption": "Permission to quit a book is permission to start ten more.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#raisingreaders #kidsbooks #parentingtips #readingtips"
+  },
+  {
+    "id": "q-2026-10-22",
+    "type": "single",
+    "images": [
+      "images/q-2026-10-22/01.jpg"
+    ],
+    "caption": "How many hours of screen time does your kid get on a normal school day? Just drop a number.\n\nDownload ReadBank, link in bio 📚\n\n#parenting #screentime #raisingreaders #parentingtips #momlife"
+  },
+  {
+    "id": "p4-car-or-bedtime",
+    "type": "carousel",
+    "images": [
+      "images/p4-car-or-bedtime/01.jpg",
+      "images/p4-car-or-bedtime/02.jpg",
+      "images/p4-car-or-bedtime/03.jpg",
+      "images/p4-car-or-bedtime/04.jpg",
+      "images/p4-car-or-bedtime/05.jpg",
+      "images/p4-car-or-bedtime/06.jpg",
+      "images/p4-car-or-bedtime/07.jpg"
+    ],
+    "caption": "Which window works better in your house? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "C21-the-dopamine-thing",
+    "type": "carousel",
+    "images": [
+      "images/C21-the-dopamine-thing/01.jpg",
+      "images/C21-the-dopamine-thing/02.jpg",
+      "images/C21-the-dopamine-thing/03.jpg",
+      "images/C21-the-dopamine-thing/04.jpg",
+      "images/C21-the-dopamine-thing/05.jpg",
+      "images/C21-the-dopamine-thing/06.jpg",
+      "images/C21-the-dopamine-thing/07.jpg"
+    ],
+    "caption": "Nothing mystical here. It's reward timing. Games pay out every few seconds, books pay out every few chapters. A kid raised on the first schedule finds the second one unbearable until something bridges the gap.\n\nSave this and send it to another parent.\n\nDownload ReadBank, link in bio 📚\n\n#screentime #parentingscience #raisingreaders #digitalparenting"
+  },
+  {
+    "id": "f4-what-parents-see",
+    "type": "carousel",
+    "images": [
+      "images/f4-what-parents-see/01.jpg",
+      "images/f4-what-parents-see/02.jpg",
+      "images/f4-what-parents-see/03.jpg",
+      "images/f4-what-parents-see/04.jpg",
+      "images/f4-what-parents-see/05.jpg",
+      "images/f4-what-parents-see/06.jpg",
+      "images/f4-what-parents-see/07.jpg"
+    ],
+    "caption": "Parents get a clear view, kids get something to work toward. What would you want to see most? Tell me in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "B12-your-kid-isn-t-lazy",
+    "type": "carousel",
+    "images": [
+      "images/B12-your-kid-isn-t-lazy/01.jpg",
+      "images/B12-your-kid-isn-t-lazy/02.jpg",
+      "images/B12-your-kid-isn-t-lazy/03.jpg",
+      "images/B12-your-kid-isn-t-lazy/04.jpg",
+      "images/B12-your-kid-isn-t-lazy/05.jpg",
+      "images/B12-your-kid-isn-t-lazy/06.jpg",
+      "images/B12-your-kid-isn-t-lazy/07.jpg"
+    ],
+    "caption": "Stop diagnosing. Start pricing.\n\nAgree or disagree? Comment below.\n\nDownload ReadBank, link in bio 📚\n\n#reluctantreader #raisingreaders #parentingtips #literacy"
+  },
+  {
+    "id": "s4-hard-passage",
+    "type": "carousel",
+    "images": [
+      "images/s4-hard-passage/01.jpg",
+      "images/s4-hard-passage/02.jpg",
+      "images/s4-hard-passage/03.jpg",
+      "images/s4-hard-passage/04.jpg",
+      "images/s4-hard-passage/05.jpg",
+      "images/s4-hard-passage/06.jpg",
+      "images/s4-hard-passage/07.jpg"
+    ],
+    "caption": "Save this for your next reading test.\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "A07-the-guilt",
+    "type": "carousel",
+    "images": [
+      "images/A07-the-guilt/01.jpg",
+      "images/A07-the-guilt/02.jpg",
+      "images/A07-the-guilt/03.jpg",
+      "images/A07-the-guilt/04.jpg",
+      "images/A07-the-guilt/05.jpg",
+      "images/A07-the-guilt/06.jpg",
+      "images/A07-the-guilt/07.jpg"
+    ],
+    "caption": "You are allowed to need a break. Building a system so the break doesn't cost you guilt is just good design.\n\nDoes this sound like your house? Tell me in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#mommguilt #screentime #parentingtips #momlife"
+  },
+  {
+    "id": "p5-limit-or-earn",
+    "type": "carousel",
+    "images": [
+      "images/p5-limit-or-earn/01.jpg",
+      "images/p5-limit-or-earn/02.jpg",
+      "images/p5-limit-or-earn/03.jpg",
+      "images/p5-limit-or-earn/04.jpg",
+      "images/p5-limit-or-earn/05.jpg",
+      "images/p5-limit-or-earn/06.jpg",
+      "images/p5-limit-or-earn/07.jpg"
+    ],
+    "caption": "Which would you have picked as a kid? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "D26-make-the-book-easier-to-reach",
+    "type": "carousel",
+    "images": [
+      "images/D26-make-the-book-easier-to-reach/01.jpg",
+      "images/D26-make-the-book-easier-to-reach/02.jpg",
+      "images/D26-make-the-book-easier-to-reach/03.jpg",
+      "images/D26-make-the-book-easier-to-reach/04.jpg",
+      "images/D26-make-the-book-easier-to-reach/05.jpg",
+      "images/D26-make-the-book-easier-to-reach/06.jpg",
+      "images/D26-make-the-book-easier-to-reach/07.jpg"
+    ],
+    "caption": "Putting a basket next to the sofa can raise reading time before you change a single rule.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#parentinghacks #homelibrary #raisingreaders #momhacks"
+  },
+  {
+    "id": "q-2026-10-29",
+    "type": "single",
+    "images": [
+      "images/q-2026-10-29/01.jpg"
+    ],
+    "caption": "Would you rather your kid earn screen time by reading, or get a fixed daily limit? Comment A or B.\n\nDownload ReadBank, link in bio 📚\n\n#parenting #screentime #raisingreaders #parentingtips #momlife"
+  },
+  {
+    "id": "r3-nlt-enjoyment",
+    "type": "carousel",
+    "images": [
+      "images/r3-nlt-enjoyment/01.jpg",
+      "images/r3-nlt-enjoyment/02.jpg",
+      "images/r3-nlt-enjoyment/03.jpg",
+      "images/r3-nlt-enjoyment/04.jpg",
+      "images/r3-nlt-enjoyment/05.jpg",
+      "images/r3-nlt-enjoyment/06.jpg",
+      "images/r3-nlt-enjoyment/07.jpg"
+    ],
+    "caption": "Save this. What would make reading fun again for you?\n\nDownload ReadBank, link in bio 📚\n\n#literacy #readingmatters #parentingstats #education #raisingreaders"
+  },
+  {
+    "id": "b3-graphic-novels",
+    "type": "carousel",
+    "images": [
+      "images/b3-graphic-novels/01.jpg",
+      "images/b3-graphic-novels/02.jpg",
+      "images/b3-graphic-novels/03.jpg",
+      "images/b3-graphic-novels/04.jpg",
+      "images/b3-graphic-novels/05.jpg",
+      "images/b3-graphic-novels/06.jpg",
+      "images/b3-graphic-novels/07.jpg"
+    ],
+    "caption": "Graphic novels count as reading. Drop your favorite below.\n\nDownload ReadBank, link in bio 📚\n\n#kidsbooks #bookrecs #raisingreaders #reading #middlegrade"
+  },
+  {
+    "id": "E35-books-by-age",
+    "type": "carousel",
+    "images": [
+      "images/E35-books-by-age/01.jpg",
+      "images/E35-books-by-age/02.jpg",
+      "images/E35-books-by-age/03.jpg",
+      "images/E35-books-by-age/04.jpg",
+      "images/E35-books-by-age/05.jpg",
+      "images/E35-books-by-age/06.jpg",
+      "images/E35-books-by-age/07.jpg"
+    ],
+    "caption": "\"One level easier\" is the most useful advice in this whole post. Too-hard books kill more reading habits than boredom does.\n\nDrop your favorite book in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#bookrecs #kidsbooks #raisingreaders #parentingtips"
+  },
+  {
+    "id": "p6-classic-or-new",
+    "type": "carousel",
+    "images": [
+      "images/p6-classic-or-new/01.jpg",
+      "images/p6-classic-or-new/02.jpg",
+      "images/p6-classic-or-new/03.jpg",
+      "images/p6-classic-or-new/04.jpg",
+      "images/p6-classic-or-new/05.jpg",
+      "images/p6-classic-or-new/06.jpg",
+      "images/p6-classic-or-new/07.jpg"
+    ],
+    "caption": "Classic or new release? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "B14-it-s-not-about-books",
+    "type": "carousel",
+    "images": [
+      "images/B14-it-s-not-about-books/01.jpg",
+      "images/B14-it-s-not-about-books/02.jpg",
+      "images/B14-it-s-not-about-books/03.jpg",
+      "images/B14-it-s-not-about-books/04.jpg",
+      "images/B14-it-s-not-about-books/05.jpg",
+      "images/B14-it-s-not-about-books/06.jpg",
+      "images/B14-it-s-not-about-books/07.jpg"
+    ],
+    "caption": "Nobody \"loves\" scales either. They love playing piano, eventually.\n\nAgree or disagree? Comment below.\n\nDownload ReadBank, link in bio 📚\n\n#literacy #raisingreaders #parentingtips #education"
+  },
+  {
+    "id": "f5-it-all-counts",
+    "type": "carousel",
+    "images": [
+      "images/f5-it-all-counts/01.jpg",
+      "images/f5-it-all-counts/02.jpg",
+      "images/f5-it-all-counts/03.jpg",
+      "images/f5-it-all-counts/04.jpg",
+      "images/f5-it-all-counts/05.jpg",
+      "images/f5-it-all-counts/06.jpg",
+      "images/f5-it-all-counts/07.jpg"
+    ],
+    "caption": "What counts as reading in your house? Graphic novels, audiobooks, comics? Tell me below.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "s5-ten-minutes",
+    "type": "carousel",
+    "images": [
+      "images/s5-ten-minutes/01.jpg",
+      "images/s5-ten-minutes/02.jpg",
+      "images/s5-ten-minutes/03.jpg",
+      "images/s5-ten-minutes/04.jpg",
+      "images/s5-ten-minutes/05.jpg",
+      "images/s5-ten-minutes/06.jpg",
+      "images/s5-ten-minutes/07.jpg"
+    ],
+    "caption": "10 minutes. That is all. Save this and try it for a week.\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "C22-reading-level-reading-habit",
+    "type": "carousel",
+    "images": [
+      "images/C22-reading-level-reading-habit/01.jpg",
+      "images/C22-reading-level-reading-habit/02.jpg",
+      "images/C22-reading-level-reading-habit/03.jpg",
+      "images/C22-reading-level-reading-habit/04.jpg",
+      "images/C22-reading-level-reading-habit/05.jpg",
+      "images/C22-reading-level-reading-habit/06.jpg",
+      "images/C22-reading-level-reading-habit/07.jpg"
+    ],
+    "caption": "The report card said he was fine. He hadn't finished a book since October.\n\nSave this and send it to another parent.\n\nDownload ReadBank, link in bio 📚\n\n#literacy #raisingreaders #parentingtips #education"
+  },
+  {
+    "id": "q-2026-11-05",
+    "type": "single",
+    "images": [
+      "images/q-2026-11-05/01.jpg"
+    ],
+    "caption": "What is the one book your kid actually finished? Drop it below.\n\nDownload ReadBank, link in bio 📚\n\n#parenting #screentime #raisingreaders #parentingtips #momlife"
+  },
+  {
+    "id": "D28-reading-with-a-kid-who-hates-it",
+    "type": "carousel",
+    "images": [
+      "images/D28-reading-with-a-kid-who-hates-it/01.jpg",
+      "images/D28-reading-with-a-kid-who-hates-it/02.jpg",
+      "images/D28-reading-with-a-kid-who-hates-it/03.jpg",
+      "images/D28-reading-with-a-kid-who-hates-it/04.jpg",
+      "images/D28-reading-with-a-kid-who-hates-it/05.jpg",
+      "images/D28-reading-with-a-kid-who-hates-it/06.jpg",
+      "images/D28-reading-with-a-kid-who-hates-it/07.jpg"
+    ],
+    "caption": "Reading aloud to a 10-year-old is not babying them. It's modelling fluency they can't produce yet.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#reluctantreader #readaloud #raisingreaders #parentingtips"
+  },
+  {
+    "id": "p7-library-or-bookstore",
+    "type": "carousel",
+    "images": [
+      "images/p7-library-or-bookstore/01.jpg",
+      "images/p7-library-or-bookstore/02.jpg",
+      "images/p7-library-or-bookstore/03.jpg",
+      "images/p7-library-or-bookstore/04.jpg",
+      "images/p7-library-or-bookstore/05.jpg",
+      "images/p7-library-or-bookstore/06.jpg",
+      "images/p7-library-or-bookstore/07.jpg"
+    ],
+    "caption": "Library or bookstore? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "B16-let-them-read-junk",
+    "type": "carousel",
+    "images": [
+      "images/B16-let-them-read-junk/01.jpg",
+      "images/B16-let-them-read-junk/02.jpg",
+      "images/B16-let-them-read-junk/03.jpg",
+      "images/B16-let-them-read-junk/04.jpg",
+      "images/B16-let-them-read-junk/05.jpg",
+      "images/B16-let-them-read-junk/06.jpg",
+      "images/B16-let-them-read-junk/07.jpg"
+    ],
+    "caption": "The kid who read 40 Dog Man books is a reader. Full stop.\n\nAgree or disagree? Comment below.\n\nDownload ReadBank, link in bio 📚\n\n#graphicnovels #kidsbooks #raisingreaders #dogman"
+  },
+  {
+    "id": "f6-things-i-wish-i-knew",
+    "type": "carousel",
+    "images": [
+      "images/f6-things-i-wish-i-knew/01.jpg",
+      "images/f6-things-i-wish-i-knew/02.jpg",
+      "images/f6-things-i-wish-i-knew/03.jpg",
+      "images/f6-things-i-wish-i-knew/04.jpg",
+      "images/f6-things-i-wish-i-knew/05.jpg",
+      "images/f6-things-i-wish-i-knew/06.jpg",
+      "images/f6-things-i-wish-i-knew/07.jpg"
+    ],
+    "caption": "I'm a student and I wish I had read more earlier. Which one hits for you? Comment the number.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "s6-finish-a-book",
+    "type": "carousel",
+    "images": [
+      "images/s6-finish-a-book/01.jpg",
+      "images/s6-finish-a-book/02.jpg",
+      "images/s6-finish-a-book/03.jpg",
+      "images/s6-finish-a-book/04.jpg",
+      "images/s6-finish-a-book/05.jpg",
+      "images/s6-finish-a-book/06.jpg",
+      "images/s6-finish-a-book/07.jpg"
+    ],
+    "caption": "Do you quit books or finish them no matter what? Tell me below.\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "G49-sick-day-rainy-day",
+    "type": "carousel",
+    "images": [
+      "images/G49-sick-day-rainy-day/01.jpg",
+      "images/G49-sick-day-rainy-day/02.jpg",
+      "images/G49-sick-day-rainy-day/03.jpg",
+      "images/G49-sick-day-rainy-day/04.jpg",
+      "images/G49-sick-day-rainy-day/05.jpg",
+      "images/G49-sick-day-rainy-day/06.jpg",
+      "images/G49-sick-day-rainy-day/07.jpg"
+    ],
+    "caption": "\"You can have as much as you want\" is a surprisingly powerful sentence when there's a price attached.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#rainyday #parentinghacks #screentime #momlife"
+  },
+  {
+    "id": "r4-who-stopped",
+    "type": "carousel",
+    "images": [
+      "images/r4-who-stopped/01.jpg",
+      "images/r4-who-stopped/02.jpg",
+      "images/r4-who-stopped/03.jpg",
+      "images/r4-who-stopped/04.jpg",
+      "images/r4-who-stopped/05.jpg",
+      "images/r4-who-stopped/06.jpg",
+      "images/r4-who-stopped/07.jpg"
+    ],
+    "caption": "Comment if you were a kid who stopped reading and why.\n\nDownload ReadBank, link in bio 📚\n\n#literacy #readingmatters #parentingstats #education #raisingreaders"
+  },
+  {
+    "id": "b4-classics",
+    "type": "carousel",
+    "images": [
+      "images/b4-classics/01.jpg",
+      "images/b4-classics/02.jpg",
+      "images/b4-classics/03.jpg",
+      "images/b4-classics/04.jpg",
+      "images/b4-classics/05.jpg",
+      "images/b4-classics/06.jpg",
+      "images/b4-classics/07.jpg"
+    ],
+    "caption": "Save this list. Which classic have you actually finished?\n\nDownload ReadBank, link in bio 📚\n\n#kidsbooks #bookrecs #raisingreaders #reading #middlegrade"
+  },
+  {
+    "id": "p8-movie-or-book-first",
+    "type": "carousel",
+    "images": [
+      "images/p8-movie-or-book-first/01.jpg",
+      "images/p8-movie-or-book-first/02.jpg",
+      "images/p8-movie-or-book-first/03.jpg",
+      "images/p8-movie-or-book-first/04.jpg",
+      "images/p8-movie-or-book-first/05.jpg",
+      "images/p8-movie-or-book-first/06.jpg",
+      "images/p8-movie-or-book-first/07.jpg"
+    ],
+    "caption": "Book first or movie first? Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "D29-the-car",
+    "type": "carousel",
+    "images": [
+      "images/D29-the-car/01.jpg",
+      "images/D29-the-car/02.jpg",
+      "images/D29-the-car/03.jpg",
+      "images/D29-the-car/04.jpg",
+      "images/D29-the-car/05.jpg",
+      "images/D29-the-car/06.jpg",
+      "images/D29-the-car/07.jpg"
+    ],
+    "caption": "Motion sickness kids: this is where audiobooks earn their keep.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#parentinghacks #carrides #raisingreaders #momhacks"
+  },
+  {
+    "id": "q-2026-11-12",
+    "type": "single",
+    "images": [
+      "images/q-2026-11-12/01.jpg"
+    ],
+    "caption": "What is harder at bedtime: putting the screen down or picking up a book? Comment SCREEN or BOOK.\n\nDownload ReadBank, link in bio 📚\n\n#parenting #screentime #raisingreaders #parentingtips #momlife"
+  },
+  {
+    "id": "F42-sibling-economics",
+    "type": "carousel",
+    "images": [
+      "images/F42-sibling-economics/01.jpg",
+      "images/F42-sibling-economics/02.jpg",
+      "images/F42-sibling-economics/03.jpg",
+      "images/F42-sibling-economics/04.jpg",
+      "images/F42-sibling-economics/05.jpg",
+      "images/F42-sibling-economics/06.jpg",
+      "images/F42-sibling-economics/07.jpg"
+    ],
+    "caption": "Sometimes you set up the incentives and then just get out of the way.\n\nDoes this sound like your house? Tell me in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#siblings #raisingreaders #parentingwins #momlife"
+  },
+  {
+    "id": "f7-earn-vs-limit",
+    "type": "carousel",
+    "images": [
+      "images/f7-earn-vs-limit/01.jpg",
+      "images/f7-earn-vs-limit/02.jpg",
+      "images/f7-earn-vs-limit/03.jpg",
+      "images/f7-earn-vs-limit/04.jpg",
+      "images/f7-earn-vs-limit/05.jpg",
+      "images/f7-earn-vs-limit/06.jpg",
+      "images/f7-earn-vs-limit/07.jpg"
+    ],
+    "caption": "Was it a limit or did you earn it when you were a kid? Tell me below.\n\nDownload ReadBank, link in bio 📚\n\n#studentfounder #screentime #readingapp #raisingreaders #buildinpublic"
+  },
+  {
+    "id": "s7-transition-words",
+    "type": "carousel",
+    "images": [
+      "images/s7-transition-words/01.jpg",
+      "images/s7-transition-words/02.jpg",
+      "images/s7-transition-words/03.jpg",
+      "images/s7-transition-words/04.jpg",
+      "images/s7-transition-words/05.jpg",
+      "images/s7-transition-words/06.jpg",
+      "images/s7-transition-words/07.jpg"
+    ],
+    "caption": "Save this. These show up in almost every passage.\n\nDownload ReadBank, link in bio 📚\n\n#sat #studytips #reading #studentlife #literacy"
+  },
+  {
+    "id": "E37-the-library-card",
+    "type": "carousel",
+    "images": [
+      "images/E37-the-library-card/01.jpg",
+      "images/E37-the-library-card/02.jpg",
+      "images/E37-the-library-card/03.jpg",
+      "images/E37-the-library-card/04.jpg",
+      "images/E37-the-library-card/05.jpg",
+      "images/E37-the-library-card/06.jpg",
+      "images/E37-the-library-card/07.jpg"
+    ],
+    "caption": "Libby is genuinely one of the best apps on my phone and I'm including the ones I pay for.\n\nDrop your favorite book in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#library #libby #kidsbooks #parentinghacks"
+  },
+  {
+    "id": "p9-ten-minutes",
+    "type": "carousel",
+    "images": [
+      "images/p9-ten-minutes/01.jpg",
+      "images/p9-ten-minutes/02.jpg",
+      "images/p9-ten-minutes/03.jpg",
+      "images/p9-ten-minutes/04.jpg",
+      "images/p9-ten-minutes/05.jpg",
+      "images/p9-ten-minutes/06.jpg",
+      "images/p9-ten-minutes/07.jpg"
+    ],
+    "caption": "Be honest. Comment 1 or 2.\n\nDownload ReadBank, link in bio 📚\n\n#thisorthat #parenting #screentime #kidsbooks #raisingreaders"
+  },
+  {
+    "id": "F43-he-said-the-quiet-part",
+    "type": "carousel",
+    "images": [
+      "images/F43-he-said-the-quiet-part/01.jpg",
+      "images/F43-he-said-the-quiet-part/02.jpg",
+      "images/F43-he-said-the-quiet-part/03.jpg",
+      "images/F43-he-said-the-quiet-part/04.jpg",
+      "images/F43-he-said-the-quiet-part/05.jpg",
+      "images/F43-he-said-the-quiet-part/06.jpg",
+      "images/F43-he-said-the-quiet-part/07.jpg"
+    ],
+    "caption": "If your kid resists reading, ask whether it's the activity or the feeling. Usually it's the feeling.\n\nDoes this sound like your house? Tell me in the comments.\n\nDownload ReadBank, link in bio 📚\n\n#reluctantreader #dyslexia #parentingtips #raisingreaders"
+  },
+  {
+    "id": "D30-bedtime",
+    "type": "carousel",
+    "images": [
+      "images/D30-bedtime/01.jpg",
+      "images/D30-bedtime/02.jpg",
+      "images/D30-bedtime/03.jpg",
+      "images/D30-bedtime/04.jpg",
+      "images/D30-bedtime/05.jpg",
+      "images/D30-bedtime/06.jpg",
+      "images/D30-bedtime/07.jpg"
+    ],
+    "caption": "Kids will do almost anything to stay up later. Point it somewhere useful.\n\nSave this for later.\n\nDownload ReadBank, link in bio 📚\n\n#bedtimeroutine #parentinghacks #raisingreaders #momhacks"
+  }
+]
