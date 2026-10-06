@@ -18,9 +18,9 @@ BASE = os.environ.get("IMAGE_BASE_URL", "").rstrip("/")
 TODAY = datetime.datetime.now(ZoneInfo("America/Los_Angeles")).date().isoformat()
 
 
-def call(method, path, params):
+def call(method, path, params, token=None):
     params = dict(params)
-    params["access_token"] = TOKEN
+    params["access_token"] = token or TOKEN
     data = urllib.parse.urlencode(params).encode()
     url = f"{GRAPH}/{path}"
     if method == "GET":
@@ -58,14 +58,23 @@ def post_instagram(item, urls):
     return call("POST", f"{IG}/media_publish", {"creation_id": c})["id"]
 
 
+def page_token():
+    """Facebook posts need the Page's own token. If TOKEN is a user token, Meta hands back the Page token."""
+    try:
+        return call("GET", PAGE, {"fields": "access_token"}).get("access_token") or TOKEN
+    except SystemExit:
+        return TOKEN
+
+
 def post_facebook(item, urls):
+    pt = page_token()
     if len(urls) == 1:
-        return call("POST", f"{PAGE}/photos", {"url": urls[0], "caption": item["caption"]})["id"]
-    ids = [call("POST", f"{PAGE}/photos", {"url": u, "published": "false"})["id"] for u in urls]
+        return call("POST", f"{PAGE}/photos", {"url": urls[0], "caption": item["caption"]}, pt)["id"]
+    ids = [call("POST", f"{PAGE}/photos", {"url": u, "published": "false"}, pt)["id"] for u in urls]
     params = {"message": item["caption"]}
     for i, pid in enumerate(ids):
         params[f"attached_media[{i}]"] = json.dumps({"media_fbid": pid})
-    return call("POST", f"{PAGE}/feed", params)["id"]
+    return call("POST", f"{PAGE}/feed", params, pt)["id"]
 
 
 def save(state_path, state):
