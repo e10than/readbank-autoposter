@@ -15,6 +15,11 @@
     "caption": "I asked my mom how she handled screen time when I was little. Her answer turned into an app. Download ReadBank, link in bio."
   },
   {
+    "id": "e01",
+    "video": "videos/e01.mp4",
+    "caption": "I asked my little sister how much screen time she wants. Her answer: unlimited. So I built ReadBank. Download it, link in bio."
+  },
+  {
     "id": "v09",
     "video": "videos/v09.mp4",
     "caption": "Apple rejected my app, I fixed it and sent it back. It's still rough and I'm still changing it every day. Download ReadBank, link in bio."
@@ -23,6 +28,11 @@
     "id": "v16",
     "video": "videos/v16.mp4",
     "caption": "My mom isn't perfect at this, she just stays consistent. I built something to help. Download ReadBank, link in bio."
+  },
+  {
+    "id": "e02",
+    "video": "videos/e02.mp4",
+    "caption": "What my little sister says when her time is up. I built an app for this. Download ReadBank, link in bio."
   },
   {
     "id": "v02",
@@ -40,6 +50,11 @@
     "caption": "Ask what they're reading, even for a minute. It makes it count. ReadBank turns the reading into screen time. Download it, link in bio."
   },
   {
+    "id": "e07",
+    "video": "videos/e07.mp4",
+    "caption": "My little sister tried ReadBank and told me what she really thinks. Try it and tell me too, link in bio."
+  },
+  {
     "id": "v08",
     "video": "videos/v08.mp4",
     "caption": "I wish I'd read more as a kid. So I made reading earn screen time. Download ReadBank, link in bio."
@@ -53,6 +68,11 @@
     "id": "v11",
     "video": "videos/v11.mp4",
     "caption": "Parents still decide. You can see the balance, add minutes, take them away, or lock it. Download ReadBank, link in bio."
+  },
+  {
+    "id": "e05",
+    "video": "videos/e05.mp4",
+    "caption": "I asked my little sister what she'd do if reading gave her screen time. Download ReadBank, link in bio."
   },
   {
     "id": "v04",
@@ -70,6 +90,11 @@
     "caption": "I'm not trying to take screens away. I want reading to be how you earn them. Download ReadBank, link in bio."
   },
   {
+    "id": "e03",
+    "video": "videos/e03.mp4",
+    "caption": "Her best excuse for more screen time. Try ReadBank and tell me what you think, link in bio."
+  },
+  {
     "id": "v05",
     "video": "videos/v05.mp4",
     "caption": "Mom says no five times before it works. Here's where my app idea came from. Download ReadBank, link in bio."
@@ -83,6 +108,11 @@
     "id": "v19",
     "video": "videos/v19.mp4",
     "caption": "Apple rejected my app. The hardest part after that was making the questions fair. Download ReadBank, link in bio."
+  },
+  {
+    "id": "e09",
+    "video": "videos/e09.mp4",
+    "caption": "My little sister on reading first and screens after. Download ReadBank, link in bio."
   },
   {
     "id": "v14",
@@ -100,6 +130,11 @@
     "caption": "A little balance is all my mom wants. Reading first, screens after. Download ReadBank, link in bio."
   },
   {
+    "id": "e10",
+    "video": "videos/e10.mp4",
+    "caption": "My little sister tells me when the questions are too hard. Try ReadBank and tell me, link in bio."
+  },
+  {
     "id": "v20",
     "video": "videos/v20.mp4",
     "caption": "Screens should feel like a reward. That's the whole idea behind ReadBank. Download it, link in bio."
@@ -113,6 +148,11 @@
     "id": "v15",
     "video": "videos/v15.mp4",
     "caption": "Making the reading questions feel fair was the hardest part. Try ReadBank and tell me, link in bio."
+  },
+  {
+    "id": "e04",
+    "video": "videos/e04.mp4",
+    "caption": "My little sister's favorite things on a screen. This is why I built ReadBank. Download it, link in bio."
   },
   {
     "id": "v22",
@@ -130,6 +170,11 @@
     "caption": "No more nightly fights over screen time. I made ReadBank for my family first. Download it, link in bio."
   },
   {
+    "id": "e06",
+    "video": "videos/e06.mp4",
+    "caption": "Who is worse about screen time, me or my little sister? Download ReadBank, link in bio."
+  },
+  {
     "id": "v28",
     "video": "videos/v28.mp4",
     "caption": "I always asked for more time. Now it's earned by reading. Download ReadBank, link in bio."
@@ -145,6 +190,11 @@
     "caption": "Kids notice when adults are on their phones too. Make the rule early, reading first. Download ReadBank, link in bio."
   },
   {
+    "id": "e08",
+    "video": "videos/e08.mp4",
+    "caption": "My little sister on my app being real. Try ReadBank and tell me what you think, link in bio."
+  },
+  {
     "id": "v30",
     "video": "videos/v30.mp4",
     "caption": "I have to say no about five times. Here's the app I built. Download ReadBank, link in bio."
@@ -153,5 +203,15 @@
     "id": "v31",
     "video": "videos/v31.mp4",
     "caption": "Give a warning before the screen goes off. Parents control it in ReadBank. Download it, link in bio."
+  },
+  {
+    "id": "e11",
+    "video": "videos/e11.mp4",
+    "caption": "What my little sister likes about reading. Download ReadBank, link in bio."
+  },
+  {
+    "id": "e12",
+    "video": "videos/e12.mp4",
+    "caption": "A day in my house, told by my little sister. Download ReadBank, link in bio."
   }
 ]
