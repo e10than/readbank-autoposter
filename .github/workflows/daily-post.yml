@@ -27,7 +27,7 @@ jobs:
       META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
-      VIDEO_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main
+      VIDEO_BASE_URL: https://e10than.github.io/readbank-autoposter
     steps:
       - uses: actions/checkout@v4
       - name: Check token, accounts and the next videos
