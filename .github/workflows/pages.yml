@@ -2,7 +2,10 @@ name: Publish videos
 on:
   push:
     branches: [main]
-    paths: ["videos/**", ".github/workflows/pages.yml"]
+    paths: ["videos/**", "queue.json", ".github/workflows/pages.yml"]
+  workflow_run:
+    workflows: ["Daily post"]
+    types: [completed]
   workflow_dispatch:
 permissions:
   contents: read
@@ -19,7 +22,22 @@ jobs:
       url: ${{ steps.d.outputs.page_url }}
     steps:
       - uses: actions/checkout@v4
-      - run: mkdir site && cp -r videos site/videos && touch site/.nojekyll
+        with:
+          ref: main
+      # Pages struggles with huge uploads, so only the next 12 unposted videos are published (about 100 MB)
+      - name: Copy the next 12 unposted videos
+        run: |
+          python3 - <<'PY'
+          import json, os, shutil
+          q = json.load(open("queue.json"))
+          s = json.load(open("posted.json")) if os.path.exists("posted.json") else {}
+          todo = [i for i in q if not (s.get(i["id"], {}).get("ig") and s.get(i["id"], {}).get("fb")) and not s.get(i["id"], {}).get("skipped")]
+          os.makedirs("site/videos", exist_ok=True)
+          for i in todo[:12]:
+              shutil.copy(i["video"], "site/" + i["video"])
+          open("site/.nojekyll", "w").close()
+          print("published:", [i["id"] for i in todo[:12]])
+          PY
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
