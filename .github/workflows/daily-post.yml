@@ -2,8 +2,15 @@ name: Daily post
 
 on:
   schedule:
-    - cron: "0 19 * * *"   # 12:00 PM Pacific during daylight time (19:00 UTC)
+    # Tuesday to Saturday 01:30 UTC = Monday to Friday 5:30 PM Pacific (winter). In summer (daylight time) it lands at 6:30 PM, which is fine.
+    - cron: "30 1 * * 2-6"
   workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = test everything, post nothing | dry = show the next post | post = really post"
+        default: "check"
+        type: choice
+        options: [check, dry, post]
 
 permissions:
   contents: write
@@ -15,17 +22,24 @@ concurrency:
 jobs:
   post:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+      FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      VIDEO_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main
     steps:
       - uses: actions/checkout@v4
-      - name: Post next item to Instagram and Facebook
-        env:
-          META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
-          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
-          IG_USER_ID: ${{ secrets.IG_USER_ID }}
-          IMAGE_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main
+      - name: Check token, accounts and the next videos
+        run: python3 post.py --check
+      - name: Dry run
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'dry'
+        run: python3 post.py --dry
+      - name: Post the next video
+        if: github.event_name == 'schedule' || inputs.mode == 'post'
         run: python3 post.py
       - name: Save posted.json
-        if: always()
+        if: always() && (github.event_name == 'schedule' || inputs.mode == 'post')
         run: |
           git config user.name "readbank-autoposter"
           git config user.email "actions@users.noreply.github.com"
