@@ -5,9 +5,19 @@
     "caption": "My mom does five more minutes with my little sister every night. I built an app where reading earns the screen time. Download ReadBank, link in bio."
   },
   {
+    "id": "v29",
+    "video": "videos/v29.mp4",
+    "caption": "How ReadBank works in 30 seconds: read, answer questions, earn minutes. Download it, link in bio."
+  },
+  {
     "id": "v07",
     "video": "videos/v07.mp4",
     "caption": "I asked my mom how she handled screen time when I was little. Her answer turned into an app. Download ReadBank, link in bio."
+  },
+  {
+    "id": "v09",
+    "video": "videos/v09.mp4",
+    "caption": "Apple rejected my app, I fixed it and sent it back. It's still rough and I'm still changing it every day. Download ReadBank, link in bio."
   },
   {
     "id": "v16",
@@ -100,6 +110,11 @@
     "caption": "Reading more as a kid would have helped my English for the SAT. Download ReadBank, link in bio."
   },
   {
+    "id": "v15",
+    "video": "videos/v15.mp4",
+    "caption": "Making the reading questions feel fair was the hardest part. Try ReadBank and tell me, link in bio."
+  },
+  {
     "id": "v22",
     "video": "videos/v22.mp4",
     "caption": "Pick one rule and stick with it. Here's how ReadBank helps parents do that. Download it, link in bio."
@@ -115,6 +130,11 @@
     "caption": "No more nightly fights over screen time. I made ReadBank for my family first. Download it, link in bio."
   },
   {
+    "id": "v28",
+    "video": "videos/v28.mp4",
+    "caption": "I always asked for more time. Now it's earned by reading. Download ReadBank, link in bio."
+  },
+  {
     "id": "v24",
     "video": "videos/v24.mp4",
     "caption": "Not against screens. Just not all they do. Download ReadBank, link in bio."
@@ -123,5 +143,15 @@
     "id": "v25",
     "video": "videos/v25.mp4",
     "caption": "Kids notice when adults are on their phones too. Make the rule early, reading first. Download ReadBank, link in bio."
+  },
+  {
+    "id": "v30",
+    "video": "videos/v30.mp4",
+    "caption": "I have to say no about five times. Here's the app I built. Download ReadBank, link in bio."
+  },
+  {
+    "id": "v31",
+    "video": "videos/v31.mp4",
+    "caption": "Give a warning before the screen goes off. Parents control it in ReadBank. Download it, link in bio."
   }
 ]
