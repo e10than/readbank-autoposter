@@ -182,6 +182,12 @@ def main():
     if done_today and os.environ.get("FORCE") != "1":
         print("Already posted today:", done_today)
         return
+    # GitHub sometimes starts scheduled runs hours late. A post at midnight is worse than no post, so scheduled runs
+    # only post between 3 PM and 10 PM Pacific. Manual runs (workflow_dispatch) and FORCE=1 can post any time.
+    now_pt = datetime.datetime.now(ZoneInfo("America/Los_Angeles"))
+    if not dry and os.environ.get("GITHUB_EVENT_NAME") == "schedule" and os.environ.get("FORCE") != "1" and not (15 <= now_pt.hour < 22):
+        print(f"Skipping: GitHub started this scheduled run at {now_pt:%H:%M} Pacific, outside the 3 PM to 10 PM posting window. The next scheduled run will post instead.")
+        return
     for item in queue:
         s = state.get(item["id"], {})
         if (s.get("ig") and s.get("fb")) or s.get("skipped"):

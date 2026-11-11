@@ -8,6 +8,9 @@ on:
     # so these only matter when an earlier run did not happen or failed.
     - cron: "30 2 * * 2-6"
     - cron: "30 3 * * 2-6"
+    - cron: "47 1 * * 2-6"
+    - cron: "17 2 * * 2-6"
+    - cron: "47 3 * * 2-6"
   workflow_dispatch:
     inputs:
       mode:
