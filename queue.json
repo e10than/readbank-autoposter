@@ -10,14 +10,14 @@
     "caption": "How ReadBank works in 30 seconds: read, answer questions, earn minutes. Download it, link in bio."
   },
   {
-    "id": "v07",
-    "video": "videos/v07.mp4",
-    "caption": "I asked my mom how she handled screen time when I was little. Her answer turned into an app. Download ReadBank, link in bio."
-  },
-  {
     "id": "e01",
     "video": "videos/e01.mp4",
     "caption": "I asked my little sister how much screen time she wants. Her answer: unlimited. So I built ReadBank. Download it, link in bio."
+  },
+  {
+    "id": "v07",
+    "video": "videos/v07.mp4",
+    "caption": "I asked my mom how she handled screen time when I was little. Her answer turned into an app. Download ReadBank, link in bio."
   },
   {
     "id": "v09",
