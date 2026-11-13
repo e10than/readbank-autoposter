@@ -96,7 +96,14 @@ def post_instagram(item, url):
     cu = cover_url(item)
     if cu:
         params["cover_url"] = cu
-    c = call("POST", f"{IG}/media", params)["id"]
+    try:
+        c = call("POST", f"{IG}/media", params)["id"]
+    except Fail as e:
+        if "cover_url" not in params:
+            raise
+        print("note: Instagram refused the custom cover, posting without it:", str(e)[:200])
+        params.pop("cover_url")
+        c = call("POST", f"{IG}/media", params)["id"]
     last = ""
     for _ in range(90):                                   # up to 6 minutes of processing
         info = call("GET", c, {"fields": "status_code,status"})
