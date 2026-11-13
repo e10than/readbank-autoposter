@@ -2,7 +2,7 @@ name: Daily post
 
 on:
   schedule:
-    # GitHub has been starting scheduled runs about 7 hours late. post.py only posts 3 PM to 10 PM Pacific on weekdays and
+    # GitHub has been starting scheduled runs about 7 hours late. post.py only posts 3 PM to 10 PM Pacific every day and
     # only once per day, so these spread-out times simply catch whichever run lands inside the window. Extra runs are harmless.
     - cron: "17 14 * * *"
     - cron: "43 16 * * *"
