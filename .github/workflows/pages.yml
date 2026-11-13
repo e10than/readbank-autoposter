@@ -2,7 +2,7 @@ name: Publish videos
 on:
   push:
     branches: [main]
-    paths: ["videos/**", "queue.json", ".github/workflows/pages.yml"]
+    paths: ["videos/**", "covers/**", "queue.json", ".github/workflows/pages.yml"]
   workflow_run:
     workflows: ["Daily post"]
     types: [completed]
@@ -33,8 +33,12 @@ jobs:
           s = json.load(open("posted.json")) if os.path.exists("posted.json") else {}
           todo = [i for i in q if not (s.get(i["id"], {}).get("ig") and s.get(i["id"], {}).get("fb")) and not s.get(i["id"], {}).get("skipped")]
           os.makedirs("site/videos", exist_ok=True)
+          os.makedirs("site/covers", exist_ok=True)
           for i in todo[:12]:
               shutil.copy(i["video"], "site/" + i["video"])
+              c = f"covers/{i['id']}.jpg"
+              if os.path.exists(c):
+                  shutil.copy(c, "site/" + c)
           open("site/.nojekyll", "w").close()
           print("published:", [i["id"] for i in todo[:12]])
           PY
