@@ -22,6 +22,10 @@ on:
         default: "check"
         type: choice
         options: [check, dry, post]
+      force:
+        description: "Post even if something was already posted today (only for a manual post)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -39,6 +43,7 @@ jobs:
       FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
       IG_USER_ID: ${{ secrets.IG_USER_ID }}
       VIDEO_BASE_URL: https://e10than.github.io/readbank-autoposter
+      FORCE: ${{ (github.event_name == 'workflow_dispatch' && inputs.force) && '1' || '0' }}
     steps:
       - uses: actions/checkout@v4
       - name: Check token, accounts and the next videos
